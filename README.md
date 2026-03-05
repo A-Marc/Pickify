@@ -1,4 +1,4 @@
-<h2 align='center'>Pickify : Movie Recommender System</h2>
+<h2 align='center'>Pickify : Movie Recommender System</h2> Marc
 
 <div align="center">
 
